@@ -1,4 +1,4 @@
-# OpenCV-color-tracker
+# OpenCV-Color-Tracker
 
 A real-time computer vision project built with **Python**, **OpenCV**, and **NumPy** that tracks a colored object (such as a red ball) using your built-in laptop camera, computes its pixel center `(cx, cy)`, measures offset from the center of the frame, and displays simulated pan/tilt turret movement cues.
 
