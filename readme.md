@@ -86,3 +86,4 @@ pip freeze > requirements.txt
 
 * Add interactive OpenCV trackbars to tune HSV thresholds for different lighting or colors (blue, green, yellow).
 * Connect `err_x` and `err_y` to a proportional (P/PD/PID) controller sending angles over Serial/GPIO to physical pan-tilt servos.
+
